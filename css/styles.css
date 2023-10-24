@@ -147,7 +147,6 @@ a {
   display: flex;
   flex-direction: column;
 }
-
 .title {
   color: var(--WHITE, #fff);
   text-align: center;
